@@ -47,7 +47,6 @@
 <div align="center">
   <video width="700" autoplay loop muted>
     <source src="public/assets/images/nikel.mp4" type="video/mp4">
-    Seu navegador não suporta a tag de vídeo.
   </video>
   
   <br>
