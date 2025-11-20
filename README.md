@@ -20,7 +20,7 @@
   <a href="#-demonstração">Demonstração</a> • 
   <a href="#-tecnologias">Tecnologias</a> • 
   <a href="#-como-executar">Como Executar</a> • 
-  <a href="#-autora">Autora</a>
+  <a href="#-autora">Autora</a> •
 </p>
 
 <br>
@@ -85,7 +85,7 @@ $ cd Projeto-Nikel
 
 # 3. Abra o arquivo `index.html` no seu navegador.
 # A forma mais fácil é usando a extensão "Live Server" do VS Code.
-
+```
 ---
 
 ## 👩‍💻 Autora
@@ -104,4 +104,3 @@ Desenvolvido com 💙 por <strong>Sílvia Avelar</strong>
 <img src="https://img.shields.io/badge/-Portfólio-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
 </a>
 </p>
-```
