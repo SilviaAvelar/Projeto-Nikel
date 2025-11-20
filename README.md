@@ -18,9 +18,9 @@
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-funcionalidades">Funcionalidades</a> • 
   <a href="#-demonstração">Demonstração</a> • 
-  <a href="#-tecnologias">Tecnologias</a> • 
-  <a href="#-como-executar">Como Executar</a> • 
-  <a href="#-autora">Autora</a> •
+  <a href="#tecnologias">Tecnologias</a> • 
+  <a href="#como-executar">Como Executar</a> • 
+  <a href="#autora">Autora</a>
 </p>
 
 <br>
@@ -44,14 +44,15 @@
 
 ## 📸 Demonstração
 
-<!-- 
-  DICA: Grave um GIF da sua aplicação funcionando e coloque aqui! 
-  Você pode usar programas como o ScreenToGif (Windows) ou Kap (Mac).
-  Enquanto isso, uma imagem já fica ótimo! Tire um print da sua tela principal.
--->
-
 <div align="center">
-  <img src="caminho/para/sua/imagem-ou-gif.gif" alt="Demonstração do Projeto Nikel" width="700">
+  <video width="700" autoplay loop muted>
+    <source src="public/assets/images/nikel.mp4" type="video/mp4">
+    Seu navegador não suporta a tag de vídeo.
+  </video>
+  
+  <br>
+
+  <img src="public/assets/images/pagina-inicial.png" alt="Página Inicial do Projeto Nikel" width="700">
 </div>
 
 ---
