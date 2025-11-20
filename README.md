@@ -45,13 +45,11 @@
 ## 📸 Demonstração
 
 <div align="center">
-  <video width="700" autoplay loop muted>
-    <source src="public/assets/images/nikel.mp4" type="video/mp4">
-  </video>
+  
+  <img src="https://raw.githubusercontent.com/SilviaAvelar/Projeto-Nikel/main/public/assets/images/pagina-inicial.png" alt="Página Inicial do Projeto Nikel" width="700">
   
   <br>
-
-  <img src="public/assets/images/pagina-inicial.png" alt="Página Inicial do Projeto Nikel" width="700">
+  <em>Ou assista ao <a href="https://raw.githubusercontent.com/SilviaAvelar/Projeto-Nikel/main/public/assets/images/nikel.mp4" target="_blank">vídeo de demonstração</a></em>
 </div>
 
 ---
