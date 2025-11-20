@@ -86,26 +86,22 @@ $ cd Projeto-Nikel
 # 3. Abra o arquivo `index.html` no seu navegador.
 # A forma mais fácil é usando a extensão "Live Server" do VS Code.
 
-## 👩‍💻 Autora
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7C52C&center=true&vCenter=true&width=700&height=70&lines=Olá,+sou+a+Sílvia+Avelar!;Desenvolvedora+Front-End;Apaixonada+por+Código+e+Café;Eternamente+Aprendendo..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Desenvolvido com 💙 por <strong>Sílvia Avelar</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/silvia-avelar/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://silviaavelar.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-  </a>
-</p>
-
-Feito com 💙 por **Sílvia Avelar**
-
 ---
+
+## 👩‍💻 Autora
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7C52C&center=true&vCenter=true&width=700&height=70&lines=Olá,+sou+a+Sílvia+Avelar!;Desenvolvedora+Front-End;Apaixonada+por+Código+e+Café;Eternamente+Aprendendo..." alt="Typing SVG" />
+</p>
+<p align="center">
+Desenvolvido com 💙 por <strong>Sílvia Avelar</strong>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/silvia-avelar/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://silviaavelar.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/-Portfólio-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+</a>
+</p>
+```
